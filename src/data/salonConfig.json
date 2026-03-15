@@ -1,0 +1,15 @@
+{
+  "name": "Hair Address Unisex Salon",
+  "location": "Koramangala, Bengaluru, India",
+  "phone": "+91 8095658882",
+  "phoneDisplay": "+91 80956 58882",
+  "address": "Hair Address Unisex Salon, Koramangala, Bengaluru, Karnataka, India",
+  "hours": [
+    "Mon - Fri: 10:00 AM - 8:30 PM",
+    "Sat - Sun: 9:30 AM - 9:00 PM"
+  ],
+  "heroHeadline": "Premium Hair & Beauty Experience in Koramangala",
+  "heroSubheadline": "Hair Styling • Skin Care • Beauty Treatments",
+  "whatsappMessage": "Hello, I want to book an appointment at Hair Address Unisex Salon.",
+  "mapEmbedUrl": "https://www.google.com/maps?q=Koramangala%2C%20Bengaluru&z=14&output=embed"
+}

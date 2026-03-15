@@ -1,0 +1,68 @@
+[
+  {
+    "name": "Haircut",
+    "icon": "Scissors",
+    "description": "Precision cuts tailored to your face shape, style preferences, and hair texture.",
+    "price": "₹399"
+  },
+  {
+    "name": "Hair Styling",
+    "icon": "Sparkles",
+    "description": "Event-ready styling, blowouts, and polished finishing for effortless confidence.",
+    "price": "₹699"
+  },
+  {
+    "name": "Hair Coloring",
+    "icon": "Palette",
+    "description": "Global color, highlights, and custom tone work with rich salon-grade products.",
+    "price": "₹1,999"
+  },
+  {
+    "name": "Hair Spa",
+    "icon": "Flower2",
+    "description": "Restorative nourishment for dry, damaged, and stressed hair with a relaxing ritual.",
+    "price": "₹1,299"
+  },
+  {
+    "name": "Hair Straightening",
+    "icon": "WandSparkles",
+    "description": "Smooth, sleek finishing that reduces frizz and enhances manageability.",
+    "price": "₹3,499"
+  },
+  {
+    "name": "Keratin Treatment",
+    "icon": "Gem",
+    "description": "Luxury strengthening treatment for shine, softness, and long-lasting smoothness.",
+    "price": "₹4,999"
+  },
+  {
+    "name": "Facials",
+    "icon": "HeartHandshake",
+    "description": "Glow-boosting facials designed to refresh, hydrate, and brighten tired skin.",
+    "price": "₹999"
+  },
+  {
+    "name": "Skin Treatments",
+    "icon": "ShieldCheck",
+    "description": "Targeted care for tan, texture, and uneven skin tone using premium formulations.",
+    "price": "₹1,499"
+  },
+  {
+    "name": "Waxing",
+    "icon": "Leaf",
+    "description": "Comfort-focused waxing services with smooth results and hygienic care.",
+    "price": "₹349"
+  },
+  {
+    "name": "Threading",
+    "icon": "Feather",
+    "description": "Expert eyebrow and facial threading for clean definition and natural shaping.",
+    "price": "₹99"
+  },
+  {
+    "name": "Nail Care",
+    "icon": "Hand",
+    "description": "Neat grooming, polish refresh, and finishing touches for a refined look.",
+    "price": "₹499"
+  }
+]
